@@ -1,0 +1,17 @@
+body{
+	background: url(../img/registerimg.jpeg) repeat fixed center;
+}
+p{
+	font-size: 30px;
+	font-weight: 700;
+}
+td{
+	height: 50px;
+	text-align: center;
+}
+.subbotton{
+	position: relative;
+	top: 20px;
+	width: 100px;
+	height: 40px;
+}

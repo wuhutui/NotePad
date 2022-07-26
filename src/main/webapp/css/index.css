@@ -1,0 +1,85 @@
+body{
+	background: url(../img/registerimg.jpeg) repeat fixed center;
+}
+
+.slider-bar {
+            position: absolute;
+            left: 50%;
+            top: 300px;
+            margin-left: 600px;
+            width: 45px;
+            height: 130px;
+            background-color: pink;
+        }
+ 
+        .w {
+            width: 1200px;
+            margin: 10px auto;
+        }
+ 
+        .header {
+            height: 50px;
+			background: url(../img/banner.png);
+            
+        }
+ 
+        .banner {
+            height: 250px;
+        }
+ 
+        .main {
+            height: 1000px;
+			text-align: center;
+            
+        }
+		#div-for-note{
+			text-align: center;
+		}
+		.table-central{
+			position: relative;
+			width: 1000px;
+			left: 50%;
+			transform: translate(-50%,0);
+		}
+		td{
+			font-size: 20px;
+			font-weight: 100;
+			border: 1px #c7ced1 solid;
+			margin-left: 10px;
+		}
+        span {
+            display: none;
+            position: absolute;
+            bottom: 0;
+        }
+		a{
+			color:#000;
+			font-size: 20px;
+		}
+		a:hover{
+			color: #358cdc;
+			background: #F0F8FF;
+		}
+		ul{
+			list-style-type: none;
+			padding-top: 10px;
+		}
+		li{
+			display:inline;
+			padding-right: 10px;
+			border-right: 1px solid #000;
+		}
+		.savebutton{
+			margin-bottom: 20px;
+			border: 0px;
+			width: 200px;
+			font-size: 30px;
+			font-weight: 200;
+			color: aliceblue;
+			background-color: rgba(177, 220, 219, 0.5);
+			border-radius: 30px 30px;
+			
+		}
+		.btn-info{
+			background-color: rgba(154, 160, 220, 0.5);
+		}

@@ -1,0 +1,73 @@
+body{
+	background: url(../img/registerimg.jpeg) repeat fixed center;
+}
+div{
+	/*border: 2px solid red;*/
+	background-color: #fff;
+	width: 600px;
+	}
+	
+#div1{
+	height: 400px;
+	position:absolute;
+	left: 50%;
+	top: 50%;
+	margin: -150px 0 0 -300px;
+	border-radius:30px 30px;
+	
+}
+
+#div2{
+	font-size: 20px;
+	position: relative;
+	text-align: center;
+	width: 50%;
+	margin-top:60px;
+	margin-left: 150px;
+}
+#div3{
+	position: relative;
+	width: 50%;
+	margin-left: 150px;
+	margin-top: 15px;
+	text-align: center;
+}
+#div4{
+	position: relative;
+	width: 50%;
+	margin-left: 150px;
+	margin-top: 5px;
+}
+.logbuttons{
+	border: 1px;
+	width: 200px;
+	height:40px;
+	background-color: #c7ced1;
+	font-weight: 500;
+	font-size: 20px;
+}
+#inputext{
+	border: 0px;
+	border-bottom: 2px solid #cccccc;
+	width:200px;
+	height:30px;
+	font-size: 16px;
+}
+table{
+	position: relative;
+	left: 50%;
+	transform: translate(-50%,0);
+}
+.td1{
+	height: 50px;
+	width: 60px;
+	border-left:1px solid #999 ;
+	border-right: 1px dotted #999;
+	border-radius: 60px 20px ;
+	
+}
+.td2{
+	text-align: center;
+	width: 100px;
+	
+}
